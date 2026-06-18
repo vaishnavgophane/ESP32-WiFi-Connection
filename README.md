@@ -1,3 +1,13 @@
+## 🧑‍💻 Author
+
+**Vaishnav Gophane**  
+**Embedded Firmware & IoT Developer**
+<br>
+**Pune, India** 
+
+📫 **Connect:** [Gmail](mr.vaishnavgophane@gmail.com) • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
+
+---
 # ESP32 WiFi Connection Demo
 
 This project demonstrates how to connect an ESP-WROOM-32 development board to a Wi-Fi network using the Arduino IDE. The ESP32 successfully connects to both:
