@@ -67,10 +67,11 @@ Simply connect the ESP32 board to your computer using a USB cable.
 ## Example Output
 
 ```text
-Connecting to WiFi...
-........
-WiFi Connected!
-IP Address: 192.168.1.105
+Connecting to Wi-Fi...
+-----------------------------
+Connected to: _____________
+IP Address  : _____________
+-----------------------------
 ```
 
 ---
