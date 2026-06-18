@@ -1,4 +1,5 @@
 #include <WiFi.h>
+#include <HTTPClient.h>
 
 const char* ssid = "___________"; // Wifi name
 const char* password = "____________"; // Wifi Password
@@ -8,7 +9,7 @@ void setup() {
   delay(1000);
 
   WiFi.begin(ssid, password);
-  Serial.print("Connecting to Wi-Fi");
+  
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
