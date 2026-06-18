@@ -8,6 +8,7 @@
 📫 **Connect:** [Gmail](mr.vaishnavgophane@gmail.com) • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
 
 ---
+
 # ESP32 WiFi Connection Demo
 
 This project demonstrates how to connect an ESP-WROOM-32 development board to a Wi-Fi network using the Arduino IDE. The ESP32 successfully connects to both:
@@ -18,7 +19,20 @@ This project demonstrates how to connect an ESP-WROOM-32 development board to a 
 Once connected, the ESP32 obtains an IP address and can be used for IoT applications such as web servers, MQTT communication, cloud connectivity, and remote monitoring.
 
 ---
+## Version History
 
+### v1.0
+- Connect ESP32 to Wi-Fi
+- Display IP address
+- Support router and hotspot connections
+
+### v1.1
+- Added automatic Wi-Fi reconnection
+- Detect connection loss
+- Recover from router/hotspot outages
+
+---
+  
 ## Hardware Used
 
 - ESP-WROOM-32 Development Board
